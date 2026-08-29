@@ -1,0 +1,359 @@
+{
+  "users": [
+    {
+      "id": "u-gokul",
+      "email": "gokul@skillbridge.com",
+      "role": "USER",
+      "createdAt": "2026-07-15T09:57:16.136Z"
+    },
+    {
+      "id": "u-priya",
+      "email": "priya@skillbridge.com",
+      "role": "USER",
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "u-alex",
+      "email": "alex@skillbridge.com",
+      "role": "USER",
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "u-sarah",
+      "email": "sarah@skillbridge.com",
+      "role": "USER",
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "u-admin",
+      "email": "admin@skillbridge.com",
+      "role": "ADMIN",
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "u-ljtmt824t",
+      "email": "karth34@gmail.com",
+      "role": "USER",
+      "createdAt": "2026-07-16T13:43:09.148Z"
+    }
+  ],
+  "passwords": {
+    "u-gokul": "gokul123",
+    "u-priya": "priya123",
+    "u-alex": "alex123",
+    "u-sarah": "sarah123",
+    "u-admin": "admin123",
+    "u-ljtmt824t": "qwertyu"
+  },
+  "profiles": {
+    "u-gokul": {
+      "userId": "u-gokul",
+      "name": "Gokul Ramasamy",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Full Stack Java Engineer with a passion for building microservices. Looking to expand my skillset in modern React and frontend architectures to build cohesive user interfaces.",
+      "experience": "Senior Java Developer at TechCorp (5 years)",
+      "location": "Bengaluru, India",
+      "linkedin": "linkedin.com/in/gokul-ramasamy",
+      "github": "github.com/gokul-dev",
+      "portfolio": "gokul.dev",
+      "sessionsConducted": 14,
+      "sessionsAttended": 8,
+      "studentsHelped": 12,
+      "averageRating": 4.8
+    },
+    "u-priya": {
+      "userId": "u-priya",
+      "name": "Priya Sharma",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "bio": "Frontend Specialist & UI Designer. I craft responsive, high-performance user interfaces and design visuals. Currently diving into python backend systems for automation.",
+      "experience": "Lead UI Engineer at DesignStudio (4 years)",
+      "location": "Mumbai, India",
+      "linkedin": "linkedin.com/in/priya-design",
+      "github": "github.com/priya-ui",
+      "portfolio": "priyasharma.design",
+      "sessionsConducted": 22,
+      "sessionsAttended": 15,
+      "studentsHelped": 19,
+      "averageRating": 4.9
+    },
+    "u-alex": {
+      "userId": "u-alex",
+      "name": "Alex Rivera",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80",
+      "bio": "Data Scientist turned ML Engineer. I have built multiple production NLP systems. I want to learn Photoshop and vector design to improve my slide decks and content creation.",
+      "experience": "Data Scientist at AI Labs (3 years)",
+      "location": "San Francisco, USA",
+      "linkedin": "linkedin.com/in/alex-rivera-data",
+      "github": "github.com/alex-ml",
+      "portfolio": "alexrivera.ai",
+      "sessionsConducted": 8,
+      "sessionsAttended": 12,
+      "studentsHelped": 6,
+      "averageRating": 4.7
+    },
+    "u-sarah": {
+      "userId": "u-sarah",
+      "name": "Sarah Jenkins",
+      "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
+      "bio": "Marketing Lead & Growth Hacker. Specialized in SEO, SEM, and brand design. Looking to learn basic HTML/CSS and Webflow to build campaign landing pages faster.",
+      "experience": "Growth Lead at SaaSify (6 years)",
+      "location": "London, UK",
+      "linkedin": "linkedin.com/in/sarah-jenkins-growth",
+      "github": "github.com/sarah-growth",
+      "portfolio": "sarahjenkins.co",
+      "sessionsConducted": 18,
+      "sessionsAttended": 4,
+      "studentsHelped": 15,
+      "averageRating": 4.6
+    },
+    "u-admin": {
+      "userId": "u-admin",
+      "name": "Platform Administrator",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?auto=format&fit=crop&w=150&q=80",
+      "bio": "SkillBridge Community Manager and Support Coordinator.",
+      "experience": "SkillBridge Admin Team",
+      "location": "Global Support",
+      "linkedin": "",
+      "github": "",
+      "portfolio": "",
+      "sessionsConducted": 0,
+      "sessionsAttended": 0,
+      "studentsHelped": 0,
+      "averageRating": 5
+    },
+    "u-ljtmt824t": {
+      "userId": "u-ljtmt824t",
+      "name": "karthikeyan",
+      "avatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "bio": "Newly registered SkillBridge community member. Ready to learn and teach!",
+      "experience": "New Member",
+      "location": "Global",
+      "linkedin": "",
+      "github": "",
+      "portfolio": "",
+      "sessionsConducted": 0,
+      "sessionsAttended": 0,
+      "studentsHelped": 0,
+      "averageRating": 5
+    }
+  },
+  "userSkills": [
+    {
+      "userId": "u-gokul",
+      "skillName": "Java",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-gokul",
+      "skillName": "Spring Boot",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-gokul",
+      "skillName": "React",
+      "type": "LEARN"
+    },
+    {
+      "userId": "u-gokul",
+      "skillName": "UI/UX",
+      "type": "LEARN"
+    },
+    {
+      "userId": "u-priya",
+      "skillName": "React",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-priya",
+      "skillName": "Photoshop",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-priya",
+      "skillName": "Python",
+      "type": "LEARN"
+    },
+    {
+      "userId": "u-alex",
+      "skillName": "Python",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-alex",
+      "skillName": "Machine Learning",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-alex",
+      "skillName": "Photoshop",
+      "type": "LEARN"
+    },
+    {
+      "userId": "u-sarah",
+      "skillName": "SEO",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-sarah",
+      "skillName": "Growth Marketing",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-sarah",
+      "skillName": "React",
+      "type": "LEARN"
+    },
+    {
+      "userId": "u-ljtmt824t",
+      "skillName": "Java",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-ljtmt824t",
+      "skillName": "Spring Boot",
+      "type": "TEACH"
+    },
+    {
+      "userId": "u-ljtmt824t",
+      "skillName": "React",
+      "type": "LEARN"
+    },
+    {
+      "userId": "u-ljtmt824t",
+      "skillName": "UI/UX",
+      "type": "LEARN"
+    }
+  ],
+  "requests": [
+    {
+      "id": "req-1",
+      "senderId": "u-gokul",
+      "senderName": "Gokul Ramasamy",
+      "senderAvatar": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?auto=format&fit=crop&w=150&q=80",
+      "receiverId": "u-priya",
+      "receiverName": "Priya Sharma",
+      "receiverAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "skill": "React",
+      "topic": "React Hooks and State Management with Context API",
+      "preferredDate": "2026-07-20",
+      "preferredTime": "15:00",
+      "description": "Hi Priya, I saw you specialize in frontend architectures. I am trying to build a clean dashboard and want to master React Hooks and state management. Looking forward to learning from you!",
+      "status": "PENDING",
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "req-2",
+      "senderId": "u-priya",
+      "senderName": "Priya Sharma",
+      "senderAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "receiverId": "u-alex",
+      "receiverName": "Alex Rivera",
+      "receiverAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80",
+      "skill": "Python",
+      "topic": "Introduction to Pandas and API endpoints with FastAPI",
+      "preferredDate": "2026-07-22",
+      "preferredTime": "10:00",
+      "description": "Hi Alex, I need some help in python data engineering to format backend configurations for a new dashboard. Let me know if we can sync up!",
+      "status": "ACCEPTED",
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "sess-1",
+      "requestId": "req-2",
+      "mentorId": "u-alex",
+      "mentorName": "Alex Rivera",
+      "mentorAvatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=150&q=80",
+      "learnerId": "u-priya",
+      "learnerName": "Priya Sharma",
+      "learnerAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "skill": "Python",
+      "topic": "Introduction to Pandas and API endpoints with FastAPI",
+      "date": "2026-07-22",
+      "time": "10:00",
+      "format": "ONLINE",
+      "googleMeetLink": "https://meet.google.com/abc-defg-hij",
+      "status": "SCHEDULED",
+      "reviewedByLearner": false,
+      "reviewedByMentor": false,
+      "createdAt": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "sess-completed",
+      "requestId": "req-old",
+      "mentorId": "u-priya",
+      "mentorName": "Priya Sharma",
+      "mentorAvatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=150&q=80",
+      "learnerId": "u-sarah",
+      "learnerName": "Sarah Jenkins",
+      "learnerAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
+      "skill": "React",
+      "topic": "JSX Basics and Tailwind CSS Setup",
+      "date": "2026-07-10",
+      "time": "14:00",
+      "format": "ONLINE",
+      "googleMeetLink": "https://meet.google.com/xyz-mno-pqr",
+      "status": "COMPLETED",
+      "reviewedByLearner": true,
+      "reviewedByMentor": false,
+      "createdAt": "2026-07-10T09:57:16.139Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "m-1",
+      "senderId": "u-priya",
+      "receiverId": "u-gokul",
+      "content": "Hey Gokul! Thanks for connecting. I saw you want to learn React, and I really need help with Spring Boot. Let us set up a swap!",
+      "timestamp": "2026-07-15T07:57:16.139Z"
+    },
+    {
+      "id": "m-2",
+      "senderId": "u-gokul",
+      "receiverId": "u-priya",
+      "content": "Absolutely Priya! That would be fantastic. I am free this weekend. Spring Boot is my specialty, I can teach you MVC, JPA, and security.",
+      "timestamp": "2026-07-15T08:57:16.139Z"
+    },
+    {
+      "id": "m-3",
+      "senderId": "u-priya",
+      "receiverId": "u-gokul",
+      "content": "Perfect! I will review your request and schedule a meeting.",
+      "timestamp": "2026-07-15T09:27:16.139Z"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "rev-1",
+      "sessionId": "sess-completed",
+      "reviewerId": "u-sarah",
+      "reviewerName": "Sarah Jenkins",
+      "reviewerAvatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?auto=format&fit=crop&w=150&q=80",
+      "revieweeId": "u-priya",
+      "rating": 5,
+      "reviewText": "Priya is an incredible mentor! She explained React components and Tailwind styling so clearly. I can already start editing landing pages on my own now.",
+      "timestamp": "2026-07-11T09:57:16.139Z",
+      "skill": "React"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "nt-1",
+      "userId": "u-priya",
+      "content": "Gokul Ramasamy sent you a learning request for React.",
+      "type": "REQUEST",
+      "read": false,
+      "timestamp": "2026-07-15T09:57:16.139Z"
+    },
+    {
+      "id": "nt-2",
+      "userId": "u-priya",
+      "content": "Your scheduled session with Alex Rivera is coming up on July 22.",
+      "type": "SESSION",
+      "read": false,
+      "timestamp": "2026-07-15T09:57:16.139Z"
+    }
+  ],
+  "activeSessions": {}
+}

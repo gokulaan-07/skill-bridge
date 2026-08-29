@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge",
+  "description": "Learn. Teach. Grow Together. SkillBridge is a community mentorship platform where users can learn and teach skills, schedule sessions, chat, and review mentor relationships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
